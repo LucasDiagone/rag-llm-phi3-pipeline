@@ -107,3 +107,23 @@ Utilizado para:
 
 ```bash
 jupyter notebook Projeto_RAG_Phi3_com_comentarios.ipynb
+
+---
+
+## 📌 Observações Finais
+
+- Este projeto **não tem foco em otimização ou uso em produção**
+- O código prioriza **clareza, organização e aprendizado**
+- Todas as etapas estão **comentadas e explicadas no notebook**
+
+Se você está começando a estudar **LLMs, RAG ou aplicações de NLP**, este projeto serve como uma **base prática e didática** para entendimento do pipeline.
+
+---
+
+## 👤 Autor
+
+Projeto desenvolvido para fins de **aprendizado e portfólio técnico**, com foco em **posições júnior** em dados, machine learning ou engenharia de IA.
+
+---
+
+⭐ **Se este projeto te ajudou a entender melhor RAG, considere deixar uma estrela!**
