@@ -107,7 +107,10 @@ Utilizado para:
 
 ```bash
 jupyter notebook Projeto_RAG_Phi3_com_comentarios.ipynb
-```bash
+```
+
+> 💡 Para melhor performance, recomenda-se executar em ambiente com **GPU** (ex: Google Colab).
+
 ---
 
 ## 📌 Observações Finais
