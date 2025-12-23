@@ -107,7 +107,7 @@ Utilizado para:
 
 ```bash
 jupyter notebook Projeto_RAG_Phi3_com_comentarios.ipynb
-
+```bash
 ---
 
 ## 📌 Observações Finais
